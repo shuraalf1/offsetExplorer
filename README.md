@@ -1,0 +1,2 @@
+# offsetExplorer
+herramienta para kafka
